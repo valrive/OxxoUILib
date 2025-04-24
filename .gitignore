@@ -1,0 +1,48 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+*.log
+
+# MacOS
+.DS_Store
+
+# Kotlin
+*.class
+
+# Cache
+.cache/
+captures/
+
+# Signing keys
+*.jks
+*.keystore
+
+# Crashlytics/Firebase
+crashlytics-build.properties
+fabric.properties
+
+# Misc
+*.apk
+*.ap_
+
+# Jetpack Compose preview cache
+*.pb
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node.js (si usás React Native u otro framework híbrido)
+node_modules/
