@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "OxxoUILib"
 include ':app'
+include ':OxxoUI'
