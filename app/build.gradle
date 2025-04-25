@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.gtim.oxxouilib'
-    compileSdk 35
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.gtim.oxxouilib"

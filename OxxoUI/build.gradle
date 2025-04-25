@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace 'com.gtim.oxxoui'
-    compileSdk 35
+    compileSdk 34
 
     defaultConfig {
         minSdk 23
@@ -35,7 +35,7 @@ publishing {
         create("release", MavenPublication) {
             groupId = "com.github.valrive"
             artifactId = "OxxoUI"
-            version = "1.0.0"
+            version = "1.0.1"
 
             afterEvaluate {
                 from components.release
